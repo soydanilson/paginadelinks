@@ -1,0 +1,93 @@
+main {
+  margin: 0px auto;
+  text-align: center;
+}
+main #luna {
+  color: #E14400;
+}
+main .icons {
+  position: absolute;
+  top: 10px;
+  left: 34%;
+  font-size: 30px;
+}
+main .h1 {
+  margin-top: 52px;
+}
+main #img-1 {
+  width: 200px;
+  height: 200px;
+  left: 1246.05px;
+  top: 664.66px;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+main .grupo-1 {
+  line-height: 10px;
+  font-size: 24px;
+}
+main .grupo-2 {
+  width: 370px;
+  height: 55px;
+  background-color: #FFE6DB;
+  margin: opx auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0px auto;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+main #btn-4 {
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+main #div-1 {
+  background-color: #D4E6FF;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+main .p-1 {
+  margin: 0px auto;
+  font-size: 19px;
+}
+main .p-2 {
+  color: #E14400;
+}
+main #p1 {
+  color: #0053CC;
+}
+
+footer {
+  margin: 0px auto;
+  text-align: center;
+}
+
+.centrar {
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+}
+
+.i-1 {
+  font-size: 28px;
+  color: #E14400;
+  margin-top: 30px;
+  margin-right: 24px;
+  cursor: pointer;
+}
+
+#vector-1 {
+  width: 30px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+
+#vector-2 {
+  width: 30px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
